@@ -4,17 +4,17 @@ A team software engineering project for Foundations of Software Engineering (SE1
 
 ## Repository status
 
-This repository currently publishes the project overview. The supporting files described below are prepared locally but have not yet been uploaded to GitHub. File paths describe that prepared package; they are not download links.
+This repository includes the original academic project files, documentation and available illustrations. Team credits and verification limits are preserved below.
 
-## Prepared project materials
+## Project materials
 
-- Project report — `docs/project-report.md`
-- Functional requirements and peer reviews — `docs/functional-requirements.md`
-- Non-functional requirements and peer reviews — `docs/non-functional-requirements.md`
-- Priority-prediction context diagram — `diagrams/context-diagram-1.png`
-- Daily-plan context diagram — `diagrams/context-diagram-2.png`
-- Priority-ranking use case — `diagrams/use-case-diagram-1.png`
-- Daily-plan use case — `diagrams/use-case-diagram-2.png`
+- [Project report](docs/project-report.md)
+- [Functional requirements and peer reviews](docs/functional-requirements.md)
+- [Non-functional requirements and peer reviews](docs/non-functional-requirements.md)
+- [Priority-prediction context diagram](diagrams/context-diagram-1.png)
+- [Daily-plan context diagram](diagrams/context-diagram-2.png)
+- [Priority-ranking use case](diagrams/use-case-diagram-1.png)
+- [Daily-plan use case](diagrams/use-case-diagram-2.png)
 
 ## Scope
 
